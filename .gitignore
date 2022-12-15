@@ -1,0 +1,11 @@
+DATA/
+logs/
+.ipynb_checkpoints/
+
+*.gdoc
+*.bag
+*.mp4
+*.ply
+*.txt
+*.obj
+*.pth
