@@ -1,6 +1,7 @@
 DATA/
 logs/
 .ipynb_checkpoints/
+.DS_Store
 
 *.gdoc
 *.bag
